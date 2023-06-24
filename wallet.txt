@@ -1,3 +1,3 @@
-paste your wallet here
+paste your wallet here (EVM only, not SUI/APTOS wallet)
 0x123456
 0xabcdef
